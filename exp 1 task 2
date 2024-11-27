@@ -41,6 +41,8 @@ int main ()
 
     Avg>=50?printf("\nYou are eligible for admission"):printf("\nYou are not eligible for admission");
 
+return  0;
+
 
 
 
