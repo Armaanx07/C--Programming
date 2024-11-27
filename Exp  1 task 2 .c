@@ -32,4 +32,5 @@ int main ()
  PCM Avg= 53
  You are eligible for admission
  [Process completed - press Enter]
+*/
 
