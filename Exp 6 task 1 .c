@@ -2,7 +2,7 @@
 Name : Armaan shaikh
 Roll no : 57
 UIN : 241A066
-Division :*/
+Division :*/A
 #include<stdio.h>
 void counter()  // void means no return data type;
 {    //int count =0;
