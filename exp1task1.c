@@ -1,3 +1,4 @@
+//Aim: WAP to print your name, age, class, division and UIN on the screen. Use escape sequences to properly format the output.
 #include<stdio.h>
 int main ()
 {
